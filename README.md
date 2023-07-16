@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="gifs/luffy.gif" width="170px"/>
+  <img src="gifs/pong.gif" width="200px"/>
 </p>
 
 <h1 align="center"> Hi 👋 </h1>
-<p align="center">✉️ <a href="mailto:linguin@tutanota.com">linguin@tutanota.com</a> - Linguin#5162 </p>
+<p align="center">You can contact me through social media links connected to this profile</p>
 
 > "Believe you can and you're halfway there." - Theodore Roosevelt
-
-### Working on 
-- 🛠️ Improving GOG in <a href="https://github.com/Heroic-Games-Launcher">Heroic Games Launcher</a>
-- 😍 Libadwaita GUI for <a href="https://github.com/imLinguin/nile">nile</a>
