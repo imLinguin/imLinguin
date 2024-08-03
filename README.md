@@ -4,5 +4,3 @@
 
 <h1 align="center"> Hi 👋 </h1>
 <p align="center">You can contact me through social media links connected to this profile</p>
-
-> "Believe you can and you're halfway there." - Theodore Roosevelt
